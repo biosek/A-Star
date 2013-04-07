@@ -1,0 +1,10 @@
+C:\Users\Bio\Desktop\ADS\Zapoctak\KRegHalda\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Bio\Desktop\ADS\Zapoctak\KRegHalda\bin\Release\Zapoctak_ADS.exe
+C:\Users\Bio\Desktop\ADS\Zapoctak\KRegHalda\bin\Release\Zapoctak_ADS.pdb
+C:\Users\Bio\Desktop\ADS\Zapoctak\KRegHalda\obj\x86\Release\Zapoctak_ADS.exe
+C:\Users\Bio\Desktop\ADS\Zapoctak\KRegHalda\obj\x86\Release\Zapoctak_ADS.pdb
+C:\Users\Bio\Desktop\ADS\Zapoctak\Zapoctak\KRegHalda\obj\x86\Release\Zapoctak_ADS.exe
+C:\Users\Bio\Desktop\ADS\Zapoctak\Zapoctak\KRegHalda\obj\x86\Release\Zapoctak_ADS.pdb
+C:\Users\Bio\Desktop\ADS\Zapoctak\Zapoctak\KRegHalda\bin\Release\Zapoctak_ADS.exe
+C:\Users\Bio\Desktop\ADS\Zapoctak\Zapoctak\KRegHalda\bin\Release\Zapoctak_ADS.pdb
+C:\Users\Bio\Desktop\ADS\Zapoctak\Zapoctak\KRegHalda\obj\x86\Release\ResolveAssemblyReference.cache

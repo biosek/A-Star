@@ -1,0 +1,10 @@
+C:\Users\Bio\documents\visual studio 2010\Projects\KRegHalda\KRegHalda\bin\Debug\KRegHalda.exe
+C:\Users\Bio\documents\visual studio 2010\Projects\KRegHalda\KRegHalda\bin\Debug\KRegHalda.pdb
+C:\Users\Bio\documents\visual studio 2010\Projects\KRegHalda\KRegHalda\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bio\documents\visual studio 2010\Projects\KRegHalda\KRegHalda\obj\x86\Debug\KRegHalda.exe
+C:\Users\Bio\documents\visual studio 2010\Projects\KRegHalda\KRegHalda\obj\x86\Debug\KRegHalda.pdb
+C:\Users\Bio\Desktop\KRegHalda\KRegHalda\obj\x86\Debug\KRegHalda.exe
+C:\Users\Bio\Desktop\KRegHalda\KRegHalda\obj\x86\Debug\KRegHalda.pdb
+C:\Users\Bio\Desktop\KRegHalda\KRegHalda\bin\Debug\KRegHalda.exe
+C:\Users\Bio\Desktop\KRegHalda\KRegHalda\bin\Debug\KRegHalda.pdb
+C:\Users\Bio\Desktop\KRegHalda\KRegHalda\obj\x86\Debug\ResolveAssemblyReference.cache

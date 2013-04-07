@@ -1,0 +1,12 @@
+C:\Users\Bio\documents\visual studio 2010\Projects\KRegHalda\KRegHalda\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Bio\documents\visual studio 2010\Projects\KRegHalda\KRegHalda\bin\Release\KRegHalda.exe
+C:\Users\Bio\documents\visual studio 2010\Projects\KRegHalda\KRegHalda\bin\Release\KRegHalda.pdb
+C:\Users\Bio\documents\visual studio 2010\Projects\KRegHalda\KRegHalda\obj\x86\Release\KRegHalda.exe
+C:\Users\Bio\documents\visual studio 2010\Projects\KRegHalda\KRegHalda\obj\x86\Release\KRegHalda.pdb
+C:\Users\Bio\Desktop\KRegHalda\KRegHalda\bin\Release\KRegHalda.exe
+C:\Users\Bio\Desktop\KRegHalda\KRegHalda\bin\Release\KRegHalda.pdb
+C:\Users\Bio\Desktop\KRegHalda\KRegHalda\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Bio\Desktop\KRegHalda\KRegHalda\obj\x86\Release\KRegHalda.exe
+C:\Users\Bio\Desktop\KRegHalda\KRegHalda\obj\x86\Release\KRegHalda.pdb
+C:\Users\Bio\Desktop\ADS\Zapoctak\KRegHalda\obj\x86\Release\KRegHalda.exe
+C:\Users\Bio\Desktop\ADS\Zapoctak\KRegHalda\obj\x86\Release\KRegHalda.pdb
