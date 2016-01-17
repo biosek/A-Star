@@ -1,0 +1,12 @@
+C:\dev\c#\Repos-VS2015\AStarRenewed\AStarRenewed\bin\Debug\AStarRenewed.exe.config
+C:\dev\c#\Repos-VS2015\AStarRenewed\AStarRenewed\bin\Debug\AStarRenewed.exe
+C:\dev\c#\Repos-VS2015\AStarRenewed\AStarRenewed\bin\Debug\AStarRenewed.pdb
+C:\dev\c#\Repos-VS2015\AStarRenewed\AStarRenewed\obj\Debug\AStarRenewed.csprojResolveAssemblyReference.cache
+C:\dev\c#\Repos-VS2015\AStarRenewed\AStarRenewed\obj\Debug\AStarRenewed.exe
+C:\dev\c#\Repos-VS2015\AStarRenewed\AStarRenewed\obj\Debug\AStarRenewed.pdb
+C:\dev\Github&VSO\Alg-AStar\AStarRenewed\bin\Debug\AStarRenewed.exe.config
+C:\dev\Github&VSO\Alg-AStar\AStarRenewed\obj\Debug\AStarRenewed.exe
+C:\dev\Github&VSO\Alg-AStar\AStarRenewed\obj\Debug\AStarRenewed.pdb
+\\BIO-NAS\admin\Data\dev\Visual Studio Projects\Zapoctak-MFF-ADS-I-AStar+KRegHalda\AStarRenewed\bin\Debug\AStarRenewed.exe.config
+\\BIO-NAS\admin\Data\dev\Visual Studio Projects\Zapoctak-MFF-ADS-I-AStar+KRegHalda\AStarRenewed\obj\Debug\AStarRenewed.exe
+\\BIO-NAS\admin\Data\dev\Visual Studio Projects\Zapoctak-MFF-ADS-I-AStar+KRegHalda\AStarRenewed\obj\Debug\AStarRenewed.pdb
